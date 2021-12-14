@@ -1,4 +1,4 @@
-# College Network Frontend
+# College Network Tests
 <a href="(https://github.com/Extiriority/CollegeNetworkBackend"><img align="right" src="https://catalog.app.fhict.nl/images/menuGlobal.svg" width=27%></a>
 
 CollegeNetworkTests is the test repository,
